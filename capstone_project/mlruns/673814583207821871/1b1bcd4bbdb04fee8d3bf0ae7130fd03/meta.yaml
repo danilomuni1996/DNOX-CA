@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/AI-Course/capstone_project/mlruns/673814583207821871/1b1bcd4bbdb04fee8d3bf0ae7130fd03/artifacts
+end_time: 1791464181343
+entry_point_name: ''
+experiment_id: '673814583207821871'
+lifecycle_stage: active
+run_id: 1b1bcd4bbdb04fee8d3bf0ae7130fd03
+run_name: XGBRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791464176463
+status: 3
+tags: []
+user_id: codespace

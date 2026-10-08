@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/AI-Course/capstone_project/mlruns/800356516444213607/adc8af422c2d4e9dbc17f29fd64d3189/artifacts
+end_time: 1791465130978
+entry_point_name: ''
+experiment_id: '800356516444213607'
+lifecycle_stage: active
+run_id: adc8af422c2d4e9dbc17f29fd64d3189
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791465126968
+status: 3
+tags: []
+user_id: codespace

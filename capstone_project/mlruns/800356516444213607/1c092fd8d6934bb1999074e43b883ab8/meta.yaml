@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/AI-Course/capstone_project/mlruns/800356516444213607/1c092fd8d6934bb1999074e43b883ab8/artifacts
+end_time: 1791465135195
+entry_point_name: ''
+experiment_id: '800356516444213607'
+lifecycle_stage: active
+run_id: 1c092fd8d6934bb1999074e43b883ab8
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791465130980
+status: 3
+tags: []
+user_id: codespace

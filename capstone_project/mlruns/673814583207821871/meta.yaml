@@ -1,0 +1,9 @@
+artifact_location: file:///workspaces/AI-Course/capstone_project/mlruns/673814583207821871
+creation_time: 1791461872734
+effective_trace_archival_retention: null
+experiment_id: '673814583207821871'
+last_update_time: 1791461872734
+lifecycle_stage: active
+name: Wine Quality - Regressione
+trace_location: null
+workspace: default

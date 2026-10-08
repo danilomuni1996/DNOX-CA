@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/AI-Course/capstone_project/mlruns/673814583207821871/cf338c9616c94c40b4e9af0d829de058/artifacts
+end_time: 1791463309371
+entry_point_name: ''
+experiment_id: '673814583207821871'
+lifecycle_stage: active
+run_id: cf338c9616c94c40b4e9af0d829de058
+run_name: Linear Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791463305738
+status: 3
+tags: []
+user_id: codespace

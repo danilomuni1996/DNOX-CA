@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/AI-Course/capstone_project/mlruns/800356516444213607/9538e64682ad40fe98245e66d145530a/artifacts
+end_time: 1791468211701
+entry_point_name: ''
+experiment_id: '800356516444213607'
+lifecycle_stage: active
+run_id: 9538e64682ad40fe98245e66d145530a
+run_name: XGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791468208509
+status: 3
+tags: []
+user_id: codespace

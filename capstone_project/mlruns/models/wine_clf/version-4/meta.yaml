@@ -1,0 +1,16 @@
+creation_timestamp: 1791465171456
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1791465171456
+model_id: m-afe46fd48c564630bd49527412fd4177
+name: wine_clf
+run_id: 1c092fd8d6934bb1999074e43b883ab8
+run_link: null
+source: models:/m-afe46fd48c564630bd49527412fd4177
+status: READY
+status_message: null
+storage_location: file:///workspaces/AI-Course/capstone_project/mlruns/800356516444213607/models/m-afe46fd48c564630bd49527412fd4177/artifacts
+user_id: null
+version: 4
+workspace: default

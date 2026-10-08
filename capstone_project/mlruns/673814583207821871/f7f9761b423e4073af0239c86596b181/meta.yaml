@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/AI-Course/capstone_project/mlruns/673814583207821871/f7f9761b423e4073af0239c86596b181/artifacts
+end_time: 1791464176461
+entry_point_name: ''
+experiment_id: '673814583207821871'
+lifecycle_stage: active
+run_id: f7f9761b423e4073af0239c86596b181
+run_name: SVR
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791464171688
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/AI-Course/capstone_project/mlruns/673814583207821871/3f7c35eb4d8a47f09fc243fbf91869a1/artifacts
+end_time: 1791464234018
+entry_point_name: ''
+experiment_id: '673814583207821871'
+lifecycle_stage: active
+run_id: 3f7c35eb4d8a47f09fc243fbf91869a1
+run_name: Random Forest Classifier - Webapp
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791464228277
+status: 3
+tags: []
+user_id: codespace

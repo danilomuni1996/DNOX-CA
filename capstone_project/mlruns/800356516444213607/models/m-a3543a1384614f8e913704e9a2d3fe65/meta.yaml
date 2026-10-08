@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/AI-Course/capstone_project/mlruns/800356516444213607/models/m-a3543a1384614f8e913704e9a2d3fe65/artifacts
+creation_timestamp: 1791465135803
+experiment_id: '800356516444213607'
+last_updated_timestamp: 1791465139305
+model_id: m-a3543a1384614f8e913704e9a2d3fe65
+model_type: null
+name: wine_classifier
+source_run_id: d9547dcc2b5a47c2b374fc78212d8deb
+status: 2
+status_message: null

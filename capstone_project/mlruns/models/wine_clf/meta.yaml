@@ -1,0 +1,9 @@
+aliases:
+  production: '6'
+creation_timestamp: 1791463984682
+deployment_job_id: null
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1791468251819
+name: wine_clf
+workspace: default

@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/AI-Course/capstone_project/mlruns/673814583207821871/models/m-98c662246c17409fa0587ba66db6c993/artifacts
+creation_timestamp: 1791461882649
+experiment_id: '673814583207821871'
+last_updated_timestamp: 1791461885627
+model_id: m-98c662246c17409fa0587ba66db6c993
+model_type: null
+name: model
+source_run_id: 2cd455efe1214bca95d571aec24e5731
+status: 2
+status_message: null

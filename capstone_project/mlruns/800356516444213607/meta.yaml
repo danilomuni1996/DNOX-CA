@@ -1,0 +1,9 @@
+artifact_location: file:///workspaces/AI-Course/capstone_project/mlruns/800356516444213607
+creation_time: 1791465126965
+effective_trace_archival_retention: null
+experiment_id: '800356516444213607'
+last_update_time: 1791465126965
+lifecycle_stage: active
+name: Wine Quality - Classificazione
+trace_location: null
+workspace: default
